@@ -1,2 +1,2 @@
 # hands-on-ml
-Part of code used in the Book "Hands-On Machine Learning with Scikit-Learn, Keras and Tensorflow"
+A Reporitory of code that simulates the usage of basics ML algorthims and compares it the most used libraries (like scikit-learn)
